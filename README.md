@@ -1,9 +1,3 @@
-<style>
-  html{
-    background-color: grey;
-  }
-</style>
-
 ### Hello Software Developer 👋
 
 <img src="pacman.png">
