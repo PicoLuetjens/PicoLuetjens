@@ -1,6 +1,6 @@
 <style>
-  img{
-    border-radius: 20px;
+  html{
+    background-color: grey;
   }
 </style>
 
