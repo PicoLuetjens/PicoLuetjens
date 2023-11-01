@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello Software Developer 👋
+
+![pacman.png](pacman banner)
+
+I'm a software developer too. If you want to write me a message or see my other projects visit my website.
+
+[https://picoluetjens.github.io](Pico Lütjens)
 
 <!--
 **PicoLuetjens/PicoLuetjens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
