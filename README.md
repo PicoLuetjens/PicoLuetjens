@@ -1,6 +1,6 @@
 ### Hello Software Developer 👋
 
-![pacman.png](pacman banner)
+<img src="pacman.png">
 
 I'm a software developer too. If you want to write me a message or see my other projects visit my website.
 
