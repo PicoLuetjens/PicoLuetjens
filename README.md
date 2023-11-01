@@ -1,3 +1,9 @@
+<style>
+  img{
+    border-radius: 20px;
+  }
+</style>
+
 ### Hello Software Developer 👋
 
 <img src="pacman.png">
