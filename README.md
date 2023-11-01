@@ -4,7 +4,7 @@
 
 I'm a software developer too. If you want to write me a message or see my other projects visit my website.
 
-[https://picoluetjens.github.io](Pico Lütjens)
+<a href="https://picoluetjens.github.io">Pico Lütjens</a>
 
 <!--
 **PicoLuetjens/PicoLuetjens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
